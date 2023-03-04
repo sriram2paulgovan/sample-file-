@@ -1,1 +1,2 @@
-hi sample branch
+Hi sample branch
+This is  from another computer
